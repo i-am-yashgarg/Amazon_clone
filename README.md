@@ -1,1 +1,1 @@
-# clone_practice
+# Amazon-clone
